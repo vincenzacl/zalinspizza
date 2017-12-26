@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-ios11-inset-statusbar",
+        "scope": null,
+        "escapedName": "cordova-plugin-ios11-inset-statusbar",
+        "name": "cordova-plugin-ios11-inset-statusbar",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/jerome/Perso/votreappli.fr/SDIS34/node_modules"
+    ]
+  ],
+  "_from": "cordova-plugin-ios11-inset-statusbar@latest",
+  "_id": "cordova-plugin-ios11-inset-statusbar@1.0.0",
+  "_inCache": true,
+  "_location": "/cordova-plugin-ios11-inset-statusbar",
+  "_nodeVersion": "7.10.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-ios11-inset-statusbar-1.0.0.tgz_1503659086022_0.5665881768800318"
+  },
+  "_npmUser": {
+    "name": "1webdev",
+    "email": "sergeyi@1webdev.com"
+  },
+  "_npmVersion": "4.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-ios11-inset-statusbar",
+    "scope": null,
+    "escapedName": "cordova-plugin-ios11-inset-statusbar",
+    "name": "cordova-plugin-ios11-inset-statusbar",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-ios11-inset-statusbar/-/cordova-plugin-ios11-inset-statusbar-1.0.0.tgz",
+  "_shasum": "f6c6a2e51483ddc37bd218e030fc2d75fa0d2c32",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-ios11-inset-statusbar",
+  "_where": "/Users/jerome/Perso/votreappli.fr/SDIS34/node_modules",
+  "author": {
+    "name": "1webDev"
+  },
+  "bugs": {
+    "url": "https://github.com/1webdev/InsertStatusBar/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-ios11-inset-statusbar",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "Plugin to disable the iOS 11 statusbar",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "f6c6a2e51483ddc37bd218e030fc2d75fa0d2c32",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-ios11-inset-statusbar/-/cordova-plugin-ios11-inset-statusbar-1.0.0.tgz"
+  },
+  "gitHead": "664097bbcc744adad0be18305755ef851a583b5a",
+  "homepage": "https://github.com/1webdev/InsertStatusBar#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "1webdev",
+      "email": "sergeyi@1webdev.com"
+    }
+  ],
+  "name": "cordova-plugin-ios11-inset-statusbar",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1webdev/InsertStatusBar.git"
+  },
+  "scripts": {},
+  "version": "1.0.0"
+}
